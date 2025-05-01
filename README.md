@@ -1,2 +1,2 @@
-# Projeto-Individual---M-dulo-2---2025
+# Projeto-Individual
 Projeto de desenvolvimento web individual.
